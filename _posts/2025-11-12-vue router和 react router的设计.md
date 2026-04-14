@@ -1,7 +1,7 @@
 ---
 title: "vue router和 react router的设计"
 date: 2025-11-12 14:00:00 +0800
-categories: [博客]
+categories: [前端]
 tags: [vue-router, react-router]
 math: true  # 如果需要数学公式支持
 mermaid: true  # 如果需要流程图支持

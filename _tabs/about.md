@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 应时而兴
+> 时不至不可强生，事不究不可强成。
+<!-- {: .prompt-tip } -->
+
+> 待时而动，顺势而行，方得天助。  
+
