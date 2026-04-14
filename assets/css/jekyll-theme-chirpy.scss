@@ -1,0 +1,24 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+#sidebar .site-title {
+  font-size: 1.53rem;
+}
+
+#sidebar .site-subtitle {
+  font-size: 92%;
+}
+
+@media (min-width: 1650px) {
+  #main-wrapper > .container {
+    max-width: 1800px;
+  }
+}
