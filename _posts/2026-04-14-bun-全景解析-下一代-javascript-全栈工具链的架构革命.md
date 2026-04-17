@@ -1,7 +1,7 @@
 ---
 title: "Bun 全景解析：下一代 JavaScript 全栈工具链的架构革命"
 date: 2026-04-14 10:00:00 +0800
-categories: [claude code]
+categories: [claude code, 工程化]
 tags: [bun, javascript, nodejs, 工具链, 架构]
 mermaid: true
 pin: false
