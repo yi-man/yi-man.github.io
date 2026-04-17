@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 启动流程分析"
 date: 2026-04-14 11:00:00 +0800
-categories: [claude-code, 启动流程]
+categories: [claude-code]
 tags: [claude-code, 源码分析, cli, 会话管理]
 mermaid: true
 pin: false
