@@ -1,6 +1,6 @@
 ---
 title: "大模型 Prompt Cache 全链路解析"
-date: 2026-04-20 18:00:00 +0800
+date: 2026-04-17 18:00:00 +0800
 categories: [AI]
 tags: [LLM, Prompt Cache, Prefix Cache, KV Cache, 性能优化]
 pin: false
